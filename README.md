@@ -1,5 +1,7 @@
 # MagicGemWebpage
 
+🚀 **[Live Demo](https://kylemath.github.io/MagicGemWebpage)** 🚀
+
 A web catalogue of all 880 4x4 magic gems
 
 ## Getting Started
